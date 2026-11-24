@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+With 100+ truly unique units, Zero-K is an RTS of freedom and creativity, tempered by a decade of refinement. Sculpt land into a castle and throw invaders off it with a Jugglenaut. Explore a massive campaign, solo or co-op. Hop online for epic 32 player battles or fast paced 1v1, on 100s of maps.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: 2.0 GHz dual core CPU with SSE (Intel Core 2 Duo or equ… / Rec: 3.0 GHz quad core CPU (Intel Core i5 or equivalent) | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: 512 MB graphics card with OpenGL 3 support (GeForce 880… / Rec: 2048 MB graphics card with OpenGL 3 support (high GT 50… | Metal-capable GPU |
+| **Storage** | Min: 6 GB available space / Rec: 8 GB available space | 6 GB available space |
+| **OS *** | Min: Windows 7, 8, or 10 / Rec: Windows 7, 8, 10 or 11 | Windows 7, 8, or 10 |
 
 ---
 
